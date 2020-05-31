@@ -2,9 +2,10 @@ var operando1;
 var operando2;
 var operacion;
 
-function init () {
+function iniciar () {
 
     //Definir variables
+        //Resultado en pantalla
     var resultado = document.getElementById("resultado");
 
         //Numeros
