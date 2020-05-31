@@ -1,8 +1,6 @@
 var operando1;
-var opreando2;
+var operando2;
 var operacion;
-
-
 
 function init () {
 
@@ -104,8 +102,6 @@ function init () {
 function limpiar(){
     resultado.textContent = "";
 }
-
-
 
 function resolver() {
     var res = 0;
